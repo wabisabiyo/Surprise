@@ -1,6 +1,5 @@
 # Surprise
-print raw_input ("Your Name Here: ")
-print raw_input ("Your DOB Here: ")
-if
-and
-while
+x = raw_input ("Your Name Here: ")
+y = raw_input ("Your DOB Here: ")
+print x
+print y
