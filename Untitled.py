@@ -8,3 +8,5 @@ else:
     if x < 0:
         ans = -ans
     print 'Cube Root of ' + str(x) + ' is ' + str(ans)
+    
+    All your bases are belong to us
